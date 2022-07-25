@@ -2,6 +2,8 @@ site_name: Maxcoin Project
 theme:
   name: material
   theme:
+  logo: assets/logo.png
+  favicon: /assets/images/favicon.png
   font:
     text: Roboto
     code: Roboto Mono
@@ -9,4 +11,3 @@ theme:
     scheme: slate
     primary: white
     accent: red
-
